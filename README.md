@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **kshitijnariya4@gmail.com**
+- 📫 How to reach me **knariya7422@gmail.com**
 
 
 	
