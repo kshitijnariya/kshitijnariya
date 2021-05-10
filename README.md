@@ -30,7 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <br/>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![PyCharm](http://img.shields.io/badge/PyChamr-31c898?style=for-the-badge&logo=pycharm&logoColor=d7e255)
+![PyCharm](http://img.shields.io/badge/PyChamr-d7e255?style=for-the-badge&logo=pycharm&logoColor=d7e255)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
