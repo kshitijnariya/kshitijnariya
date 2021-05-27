@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij Nariya</h1>
 <h3 align="center">A passionate Information Technology student from India</h3>
 
-
+<p align="center">
 - 🌱 I’m currently learning **React, MongoDB, Cloud Computiong, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kshitijnariya?tab=repositories)
@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **knariya7422@gmail.com**
-
+<p align="center">
 
 
 ### 🛠 &nbsp;Languages and Tools
