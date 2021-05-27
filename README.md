@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kshitij Nariya</h1>
 <h3 align="center">A passionate Information Technology student from India</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+</p>
 
 - 🌱 I’m currently learning **React, MongoDB, Cloud Computiong, etc.**
 
