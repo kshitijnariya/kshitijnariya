@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **knariya7422@gmail.com**
-
+</p>
 
 
 ### 🛠 &nbsp;Languages and Tools
@@ -32,7 +32,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![PyCharm](http://img.shields.io/badge/PyCharm-31c898?style=for-the-badge&logo=pycharm&logoColor=000000&labelColor=%000000&color=%000000)
 <br/>
-</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
