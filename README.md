@@ -3,11 +3,14 @@
 
 <p align="center">
 - 🌱 I’m currently learning **React, MongoDB, Cloud Computiong, etc.**
-
+</p>
+<p align="center">
 - 👨‍💻 All of my projects are available at [github](https://github.com/kshitijnariya?tab=repositories)
-
+</p>
+<p align="center">
 - 💬 Ask me about **Python**
-
+</p>
+<p align="center">
 - 📫 How to reach me **knariya7422@gmail.com**
 </p>
 
