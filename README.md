@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij Nariya</h1>
 <h3 align="center">A passionate Information Technology student from India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kshitijnariya&color=blueviolet&style=flat">
-</p>
+
 
 - 🌱 I’m currently learning **React, MongoDB, Cloud Computiong, etc.**
 
@@ -50,4 +48,7 @@
 <a href="https://in.linkedin.com/in/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kshitijnariya4@gmail.com"><img src="https://img.shields.io/badge/-kshitjnariya4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kshitijnariya&color=blueviolet&style=flat">
 </p>
