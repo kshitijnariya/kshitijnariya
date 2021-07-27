@@ -45,7 +45,7 @@
 
 <p>
 <a href="https://in.linkedin.com/in/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kshitijnariya4@gmail.com"><img src="https://img.shields.io/badge/-kshitjnariya4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kshitijnariya4@gmail.com"><img src="https://img.shields.io/badge/-knariya7422@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <p align="center">
