@@ -51,9 +51,10 @@
 
 <p>
 <a href="https://in.linkedin.com/in/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=social&logo=Linkedin&logoColor=0077B5"/></a>
-<a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1d9bf0?style=social&logo=Twitter&logoColor=1d9bf0"/></a>
-<a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-ea4c89?style=social&logo=dribbble&logoColor=ea4c89"/></a>
-<a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-0e141e?style=social&logo=hackerrank&logoColor=1ba94c"/></a>
+  &nbsp;&nbsp;
+<a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-1d9bf0?style=social&logo=Twitter&logoColor=1d9bf0"/></a>&nbsp;&nbsp;
+<a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-ea4c89?style=social&logo=dribbble&logoColor=ea4c89"/></a>&nbsp;&nbsp;
+<a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0e141e?style=social&logo=hackerrank&logoColor=1ba94c"/></a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kshitijnariya&color=blueviolet&style=flat">
