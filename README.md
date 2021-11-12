@@ -31,8 +31,8 @@
 <br/>
 ![PyCharm](http://img.shields.io/badge/pycharm-31c898?style=for-the-badge&logo=pycharm&logoColor=000000)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Figma](http://img.shields.io/badge/figma-31c898?style=for-the-badge&logo=figma&logoColor=000000)
-![AdobeXD](http://img.shields.io/badge/adobexd-31c898?style=for-the-badge&logo=adobexd&logoColor=000000)
+![Figma](http://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=2c2c2c)
+![AdobeXD](http://img.shields.io/badge/adobexd-470137?style=for-the-badge&logo=adobexd&logoColor=000000)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
