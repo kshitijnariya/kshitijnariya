@@ -31,7 +31,7 @@
 <br/>
 ![PyCharm](http://img.shields.io/badge/pycharm-%23F7DF1C?style=for-the-badge&logo=pycharm&logoColor=000000&labelColor=%2331c898&color=%2331c898)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Figma](http://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=2c2c2c)
+![Figma](http://img.shields.io/badge/figma-2c2c2c?style=for-the-badge&logo=figma&logoColor=white)
 ![AdobeXD](http://img.shields.io/badge/adobexd-ff61f6?style=for-the-badge&logo=adobexd&logoColor=470137)
 <br/>
 
