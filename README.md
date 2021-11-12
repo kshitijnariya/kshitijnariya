@@ -32,7 +32,7 @@
 ![PyCharm](http://img.shields.io/badge/pycharm-31c898?style=for-the-badge&logo=pycharm&logoColor=000000)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=2c2c2c)
-![AdobeXD](http://img.shields.io/badge/adobexd-ff61f6?style=for-the-badge&logo=adobexd&logoColor=470137&color=%470137)
+![AdobeXD](http://img.shields.io/badge/adobexd-ff61f6?style=for-the-badge&logo=adobexd&logoColor=470137&labelColor=%470137)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
