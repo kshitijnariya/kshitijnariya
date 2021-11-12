@@ -29,7 +29,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 <br/>
-![PyCharm](http://img.shields.io/badge/pycharm-31c898?style=for-the-badge&logo=pycharm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![PyCharm](http://img.shields.io/badge/pycharm-31c898?style=for-the-badge&logo=pycharm&logoColor=000000&labelColor=%31c898&color=%31c898)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=2c2c2c)
 ![AdobeXD](http://img.shields.io/badge/adobexd-ff61f6?style=for-the-badge&logo=adobexd&logoColor=470137)
