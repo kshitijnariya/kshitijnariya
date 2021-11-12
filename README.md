@@ -53,8 +53,8 @@
 <a href="https://in.linkedin.com/in/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kp.nariya4301@gmail.com"><img src="https://img.shields.io/badge/-kp.nariya4301@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=dribbble&logoColor=white"/></a>
-<a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=hackerrank&logoColor=white"/></a>
+<a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-white?style=flat&logo=dribbble&logoColor=ea4c89"/></a>
+<a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-0e141e?style=flat&logo=hackerrank&logoColor=1ba94c"/></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kshitijnariya&color=blueviolet&style=flat">
