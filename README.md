@@ -57,5 +57,5 @@
 <a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0e141e?style=social&logo=hackerrank&logoColor=1ba94c"/></a>&nbsp;&nbsp;
 </p>
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kshitijnariya&color=000000&style=social">
+  <img src="https://komarev.com/ghpvc/?username=kshitijnariya&style=flat-sqaure">
 </p>
