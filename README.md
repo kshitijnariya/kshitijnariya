@@ -35,7 +35,7 @@
 ![AdobeXD](http://img.shields.io/badge/adobexd-ff61f6?style=for-the-badge&logo=adobexd&logoColor=470137)
 <br>
 ![GoogleCloud](http://img.shields.io/badge/googlecloud-white?style=for-the-badge&logo=googlecloud&logoColor=1a73e8)
-![AWS](http://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=aws&logoColor=ff9d00)
+![AWS](http://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon&logoColor=ff9d00)
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
