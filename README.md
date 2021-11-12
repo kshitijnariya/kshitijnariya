@@ -54,6 +54,7 @@
 <a href="mailto:kp.nariya4301@gmail.com"><img src="https://img.shields.io/badge/-kp.nariya4301@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=dribbble&logoColor=white"/></a>
+<a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1877F2?style=flat&logo=hackerrank&logoColor=white"/></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kshitijnariya&color=blueviolet&style=flat">
