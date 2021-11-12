@@ -50,7 +50,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://in.linkedin.com/in/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://in.linkedin.com/in/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=social&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kp.nariya4301@gmail.com"><img src="https://img.shields.io/badge/-kp.nariya4301@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1d9bf0?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-ea4c89?style=flat-square&logo=dribbble&logoColor=white"/></a>
