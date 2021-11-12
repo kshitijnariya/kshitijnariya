@@ -51,10 +51,9 @@
 
 <p>
 <a href="https://in.linkedin.com/in/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=social&logo=Linkedin&logoColor=0077B5"/></a>
-<a href="mailto:kp.nariya4301@gmail.com"><img src="https://img.shields.io/badge/-kp.nariya4301@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1d9bf0?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-ea4c89?style=flat-square&logo=dribbble&logoColor=white"/></a>
-<a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-0e141e?style=flat-square&logo=hackerrank&logoColor=1ba94c"/></a>
+<a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-1d9bf0?style=social&logo=Twitter&logoColor=1d9bf0"/></a>
+<a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-ea4c89?style=social&logo=dribbble&logoColor=ea4c89"/></a>
+<a href="https://hackerrank.com/kshitijnariya"><img src="https://img.shields.io/badge/-@kshitijnariya-0e141e?style=social&logo=hackerrank&logoColor=1ba94c"/></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kshitijnariya&color=blueviolet&style=flat">
