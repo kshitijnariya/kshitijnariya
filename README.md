@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 <br>
 ![Django](https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
-![Odoo](https://img.shields.io/badge/odoo-0C4B33?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=0769AD)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-6610f2?style=for-the-badge&logo=bootstrap&logoColor=white)
