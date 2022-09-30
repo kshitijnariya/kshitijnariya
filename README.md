@@ -38,6 +38,8 @@
 ![GoogleCloud](http://img.shields.io/badge/googlecloud-white?style=for-the-badge&logo=googlecloud&logoColor=1a73e8)
 ![AWS](http://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon&logoColor=ff9d00)
 <br>
+
+### 🛠 Holophin Badges
 [![@kshitijnariya's Holopin board](https://holopin.io/api/user/board?user=kshitijnariya)](https://holopin.io/@kshitijnariya)
 ### ⚙️ &nbsp;GitHub Analytics
 
