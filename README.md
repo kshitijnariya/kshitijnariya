@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kshitij Nariya</h1>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h3 align="center">A passionate Information Technology student from India</h3>
 
 
@@ -53,10 +52,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
-
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="kshitijnariya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kshitijnariya?trk=profile-badge">Kshitij Nariya</a></div>
-              
+<p>    
   &nbsp;&nbsp;
 <a href="https://twitter.com/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-1d9bf0?style=social&logo=Twitter&logoColor=1d9bf0"/></a>&nbsp;&nbsp;
 <a href="https://dribbble.com/kshitijnariya"><img src="https://img.shields.io/badge/-kshitijnariya-ea4c89?style=social&logo=dribbble&logoColor=ea4c89"/></a>&nbsp;&nbsp;
